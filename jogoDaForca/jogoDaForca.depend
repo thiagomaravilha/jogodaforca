@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1682717560 source:/home/thiago/CodeBlocks/jogoDaForca/funcoes.c
+	<stdio.h>
+	<string.h>
+
+1682647389 source:/home/thiago/CodeBlocks/jogoDaForca/main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	"funcoes.h"
+
+1682716555 /home/thiago/CodeBlocks/jogoDaForca/funcoes.h
+
