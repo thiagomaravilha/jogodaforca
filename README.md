@@ -1,5 +1,5 @@
-# jogodaforca
-Game: Jogo Da Forca
+# JOGO DA FORCA
+Game: JogoDaForca v1.0
 
 Jogo da Forca feito em C.
 
